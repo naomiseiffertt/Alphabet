@@ -1,0 +1,136 @@
+body{
+    background-color:aliceblue
+}
+header{
+    font-family:"timesnewroman"
+
+}
+a{
+    text-decoration:none;
+}
+.container {
+    display:flex; 
+    justify-content:flex-start;
+    align-items:center
+}
+.text-item{
+    margin:3px;
+    align-items:center
+}
+.big-letter{
+    justify-content:flex-start;
+    align-items:center
+}
+.links{
+    font-size:30px;
+    color:crimson;
+    text-align:"end"
+}
+a{
+    font-size:100px;
+    font-size:8.5vw
+}
+.A{
+    font-family:"Broadway";
+    color:rgb(155, 28, 28)
+}
+.B{
+    font-family:"Broadway";
+    color:rgb(190, 98, 36)
+}
+.C{
+    font-family:"Broadway";
+    color:rgb(232, 235, 81)
+}
+.D{
+    font-family:"Broadway";
+    color:rgb(28, 155, 49)
+}
+.E{
+    font-family:"Broadway";
+    color:rgb(36, 133, 190)
+}
+.F{
+    font-family:"Broadway";
+    color:rgb(115, 44, 173)
+}
+.G{
+    font-family:"Broadway";
+    color:rgb(233, 60, 155)
+}
+.H{
+    font-family:"Broadway";
+    color:rgb(155, 28, 28)
+}
+.I{
+    font-family:"Broadway";
+    color:rgb(190, 98, 36)
+}
+.J{
+    font-family:"Broadway";
+    color:rgb(232, 235, 81)
+}
+.K{
+    font-family:"Broadway";
+    color:rgb(28, 155, 49)
+}
+.L{
+    font-family:"Broadway";
+    color:rgb(36, 133, 190)
+}
+.M{
+    font-family:"Broadway";
+    color:rgb(115, 44, 173)
+}
+.N{
+    font-family:"Broadway";
+    color:rgb(233, 60, 155)
+}
+.O{
+    font-family:"Broadway";
+    color:rgb(155, 28, 28)
+}
+.P{
+    font-family:"Broadway";
+    color:rgb(190, 98, 36)
+}
+.Q{
+    font-family:"Broadway";
+    color:rgb(232, 235, 81)
+}
+.R{
+    font-family:"Broadway";
+    color:rgb(28, 155, 49)
+}
+.S{
+    font-family:"Broadway";
+    color:rgb(36, 133, 190)
+}
+.T{
+    font-family:"Broadway";
+    color:rgb(115, 44, 173)
+}
+.U{
+    font-family:"Broadway";
+    color:rgb(233, 60, 155)
+}
+.V{
+    font-family:"Broadway";
+    color:rgb(155, 28, 28)
+}
+.W{
+    font-family:"Broadway";
+    color:rgb(190, 98, 36)
+}
+.X{
+    font-family:"Broadway";
+    color:rgb(232, 235, 81)
+}
+.Y{
+    font-family:"Broadway";
+    color:rgb(28, 155, 49)
+}
+.Z{
+    font-family:"Broadway";
+    color:rgb(36, 133, 190)
+}
